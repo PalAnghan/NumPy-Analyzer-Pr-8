@@ -1,86 +1,111 @@
-# NumPy Analyzer
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-1.x-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/CLI-Interactive-111827?style=for-the-badge" alt="CLI">
-  <img src="https://img.shields.io/badge/Status-Learning%20Project-22C55E?style=for-the-badge" alt="Status">
-</p>
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=230&section=header&text=NumPy%20Analyzer&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20NumPy%20Learning%20and%20Analysis%20CLI&descAlignY=62&descSize=18" width="100%"/>
+</a>
 
-<p align="center">
-  <b>A menu-driven Python project for learning and practicing NumPy interactively.</b>
-</p>
+<br>
 
-<p align="center">
-  Create arrays → manipulate data → analyze values → understand NumPy
-</p>
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Create+%7C+Manipulate+%7C+Analyze+NumPy+Arrays;Learn+Python+and+NumPy+by+Building;Interactive+CLI+Project+for+Practical+Learning" alt="Typing animation"/>
+</a>
 
----
+<br><br>
 
-## Demo
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLI-Interactive-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project-Learning-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/PalAnghan/NumPy-Analyzer-Pr-8?style=for-the-badge&logo=github&label=Stars"/>
 
-<p align="center">
-  <img src="assets/demo.gif" alt="NumPy Analyzer animated demo" width="850">
-</p>
+<br><br>
 
-> A small interactive NumPy playground built as a practical learning project.
+<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/hero.gif" width="900" alt="NumPy Analyzer animated demonstration"/>
 
----
+<br>
 
-## What is NumPy Analyzer?
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
+  <img src="https://img.shields.io/badge/Explore%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8/issues">
+  <img src="https://img.shields.io/badge/Report%20Issue-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**NumPy Analyzer** is a terminal-based Python application that brings multiple NumPy concepts into one structured program.
-
-Instead of creating a separate Python file every time you want to practice an array operation, you can select an operation from the menu and perform it interactively.
-
-The project focuses on practical learning of:
-
-- NumPy arrays
-- 1D, 2D and 3D arrays
-- Indexing
-- Slicing
-- Mathematical operations
-- Combining and splitting arrays
-- Searching
-- Sorting
-- Filtering
-- Aggregates
-- Statistics
-- Python modules and imports
-- Exception handling
-- Menu-driven CLI design
+</div>
 
 ---
 
-## Features
+## ⚡ What is NumPy Analyzer?
+
+**NumPy Analyzer** is an interactive Python CLI project designed to make NumPy practice more practical.
+
+Instead of writing a separate program for every NumPy concept, this project brings important operations together inside one menu-driven application.
+
+```text
+                         ┌──────────────────────────┐
+                         │      NUMPY ANALYZER      │
+                         └────────────┬─────────────┘
+                                      │
+             ┌────────────────────────┼────────────────────────┐
+             │                        │                        │
+             ▼                        ▼                        ▼
+       ARRAY CREATION           ARRAY OPERATIONS         DATA ANALYSIS
+             │                        │                        │
+       ┌─────┼─────┐          ┌───────┼────────┐        ┌──────┼──────┐
+       ▼     ▼     ▼          ▼       ▼        ▼        ▼      ▼      ▼
+      1D    2D    3D       Indexing  Slicing  Math      Sum    Mean  Stats
+       │     │     │          │       │        │         │      │      │
+       └─────┴─────┴──────────┴───────┴────────┴─────────┴──────┴──────┘
+                                      │
+                                      ▼
+                            PRACTICAL NUMPY LEARNING
+```
+
+---
+
+## 🎬 Animated Project Flow
+
+<div align="center">
+
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
+<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/workflow.gif" width="900" alt="Animated project workflow"/>
+</a>
+
+<br><br>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=800&lines=Input+%E2%86%92+Create+Array+%E2%86%92+Process+Data+%E2%86%92+Analyze+Results;One+CLI+%E2%86%92+Multiple+NumPy+Concepts;Practice+%E2%86%92+Build+%E2%86%92+Understand" alt="Workflow typing animation"/>
+</a>
+
+</div>
+
+---
+
+## ✨ Features
 
 <table>
 <tr>
 <td width="50%">
 
-### Array Creation
-
-Create:
+### 🧱 Array Creation
 
 - 1D arrays
 - 2D arrays
 - 3D arrays
+- Custom input
 - Custom dimensions
-- User-defined values
+- Interactive validation
 
 </td>
 <td width="50%">
 
-### Indexing & Slicing
-
-Practice:
+### 🎯 Indexing
 
 - 1D indexing
 - 2D indexing
 - 3D indexing
-- Row/column selection
-- Array slicing
-- Dimension validation
+- Row and column selection
+- Index validation
 
 </td>
 </tr>
@@ -88,16 +113,23 @@ Practice:
 <tr>
 <td>
 
-### Mathematical Operations
+### ✂️ Slicing
 
-Perform numerical operations on NumPy arrays through an interactive menu.
+- 2D slicing
+- Row ranges
+- Column ranges
+- Interactive range input
+- Extract array sections
 
 </td>
 <td>
 
-### Combine & Split
+### 🧮 Mathematical Operations
 
-Practice combining arrays and splitting array data into smaller parts.
+- Array calculations
+- NumPy mathematical functions
+- Interactive operation selection
+- Numerical processing
 
 </td>
 </tr>
@@ -105,16 +137,30 @@ Practice combining arrays and splitting array data into smaller parts.
 <tr>
 <td>
 
-### Search / Sort / Filter
+### 🔗 Combine & Split
 
-Find values, sort array elements, and filter data using NumPy operations.
+- Combine arrays
+- Split arrays
+- NumPy array manipulation
+- Interactive input
 
 </td>
 <td>
 
-### Statistics
+### 🔎 Search, Sort & Filter
 
-Work with:
+- Search values
+- Sort arrays
+- Conditional filtering
+- Data selection
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📊 Aggregates
 
 - Sum
 - Mean
@@ -123,12 +169,22 @@ Work with:
 - Variance
 
 </td>
+<td>
+
+### 🛡️ Error Handling
+
+- Invalid input handling
+- Index validation
+- Numeric validation
+- User-friendly messages
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Main Menu
+## 🧭 Main Menu
 
 ```text
 Welcome to the NumPy Analyzer!
@@ -142,85 +198,15 @@ Choose an option:
 4. Search, Sort, or Filter Arrays
 5. Compute Aggregates and Statistics
 6. Exit
+
+Enter your choice:
 ```
 
 ---
 
-## Project Architecture
+## 🧩 Array Creation
 
-```text
-                    ┌──────────────────┐
-                    │     main.py      │
-                    │  Application     │
-                    │     Entry Point  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  interface/      │
-                    │     menu.py      │
-                    │   Main Menu      │
-                    └────────┬─────────┘
-                             │
-          ┌──────────────────┼───────────────────┐
-          │                  │                   │
-          ▼                  ▼                   ▼
- ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
- │ Array Creation │ │ Indexing &     │ │ Mathematical   │
- │                │ │ Slicing        │ │ Operations     │
- └────────────────┘ └────────────────┘ └────────────────┘
-          │                  │                   │
-          └──────────────────┼───────────────────┘
-                             │
-          ┌──────────────────┼───────────────────┐
-          ▼                  ▼                   ▼
- ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
- │ Combine /      │ │ Search / Sort  │ │ Data Analytics │
- │ Split          │ │ / Filter       │ │ & Statistics   │
- └────────────────┘ └────────────────┘ └────────────────┘
-```
-
----
-
-## Folder Structure
-
-```text
-NumPy-Analyzer-Pr-8/
-│
-├── interface/
-│   └── menu.py
-│
-├── utilities/
-│   ├── combine_split.py
-│   ├── create_numpy_array.py
-│   ├── data_analytics.py
-│   ├── indexing_slicing.py
-│   ├── mathematical_operations.py
-│   └── search_sort_filter.py
-│
-├── assets/
-│   └── demo.gif
-│
-├── main.py
-└── README.md
-```
-
-### Module Guide
-
-| Module | Responsibility |
-|---|---|
-| `main.py` | Starts the application |
-| `interface/menu.py` | Controls the main menu and connects modules |
-| `create_numpy_array.py` | Creates 1D, 2D and 3D arrays |
-| `indexing_slicing.py` | Performs indexing and slicing |
-| `mathematical_operations.py` | Performs mathematical operations |
-| `combine_split.py` | Combines and splits arrays |
-| `search_sort_filter.py` | Searches, sorts and filters arrays |
-| `data_analytics.py` | Calculates aggregates and statistics |
-
----
-
-## Example: Creating a 2D Array
+The application lets the user choose the array dimension interactively.
 
 ```text
 Select the type of array to create:
@@ -230,11 +216,28 @@ Select the type of array to create:
 3. 3D Array
 4. Go Back
 
-Enter your choice: 2
+Enter your choice:
+```
 
-Enter rows: 2
-Enter columns: 3
-Enter elements: 10 20 30 40 50 60
+### 1D Array
+
+```text
+Enter the elements separated by space:
+10 20 30 40 50
+
+Array created successfully:
+
+[10 20 30 40 50]
+```
+
+### 2D Array
+
+```text
+Enter the number of rows: 2
+Enter the number of columns: 3
+
+Enter 6 elements:
+10 20 30 40 50 60
 
 Array created successfully:
 
@@ -242,45 +245,35 @@ Array created successfully:
  [40 50 60]]
 ```
 
+### 3D Array
+
+The same interactive approach is used for layers, rows, columns and values.
+
 ---
 
-## Example: Indexing
+## 🎯 Indexing
 
-For:
+Indexing lets you access individual elements.
+
+### 1D
 
 ```python
 array = np.array([10, 20, 30, 40, 50])
-```
 
-You can access values using:
-
-```python
 array[0]
 array[2]
 array[-1]
 ```
 
-Example:
+Output:
 
 ```text
-Enter index: 2
-
-Selected element:
+10
 30
+50
 ```
 
----
-
-## Example: 2D Indexing
-
-For:
-
-```text
-[[10 20 30]
- [40 50 60]]
-```
-
-You can select a value using:
+### 2D
 
 ```python
 array[row, column]
@@ -289,6 +282,11 @@ array[row, column]
 Example:
 
 ```text
+Original Array:
+
+[[10 20 30]
+ [40 50 60]]
+
 Enter row index: 1
 Enter column index: 2
 
@@ -296,9 +294,23 @@ Selected element:
 60
 ```
 
+### 3D
+
+```python
+array[layer, row, column]
+```
+
 ---
 
-## Example: Slicing
+## ✂️ Slicing
+
+Slicing extracts a selected section of an array.
+
+```python
+array[0:2, 1:3]
+```
+
+Example:
 
 ```text
 Original Array:
@@ -315,50 +327,226 @@ Sliced Array:
  [50 60]]
 ```
 
-This demonstrates NumPy's:
+---
+
+## 🧮 Mathematical Operations
+
+The project provides a separate mathematical operations module for working with NumPy arrays.
+
+Typical operations include:
+
+```text
+Addition
+Subtraction
+Multiplication
+Division
+Power
+```
+
+Example:
 
 ```python
-array[row_start:row_end, column_start:column_end]
+import numpy as np
+
+a = np.array([10, 20, 30])
+b = np.array([1, 2, 3])
+
+a + b
+a - b
+a * b
+a / b
 ```
 
 ---
 
-## Example: Statistics
+## 🔗 Combine & Split Arrays
+
+### Combine
+
+```python
+np.concatenate()
+```
+
+Example:
+
+```python
+a = np.array([1, 2, 3])
+b = np.array([4, 5, 6])
+
+np.concatenate((a, b))
+```
+
+Result:
 
 ```text
-Original Array:
+[1 2 3 4 5 6]
+```
+
+### Split
+
+```python
+np.split()
+```
+
+This allows an array to be divided into multiple sections.
+
+---
+
+## 🔎 Search, Sort & Filter
+
+### Search
+
+Find values or positions inside arrays.
+
+### Sort
+
+```python
+np.sort(array)
+```
+
+### Filter
+
+```python
+array[array > 30]
+```
+
+Example:
+
+```text
+Original:
+
+[10 20 30 40 50]
+
+Condition:
+
+value > 30
+
+Result:
+
+[40 50]
+```
+
+---
+
+## 📊 Aggregates & Statistics
+
+NumPy provides powerful functions for numerical analysis.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/stats.gif" width="850" alt="Animated NumPy statistics"/>
+
+</div>
+
+### Example
+
+```python
+array = np.array([10, 20, 30, 40, 50])
+
+np.sum(array)
+np.mean(array)
+np.median(array)
+np.std(array)
+np.var(array)
+```
+
+---
+
+## 🖥️ Example Console Interaction
+
+```text
+Welcome to the NumPy Analyzer!
+==============================
+
+Choose an option:
+
+1. Choose a NumPy Array
+2. Perform Mathematical Operations
+3. Combine or Split Arrays
+4. Search, Sort, or Filter Arrays
+5. Compute Aggregates and Statistics
+6. Exit
+
+Enter your choice: 1
+
+Select the type of array to create:
+
+1. 1D Array
+2. 2D Array
+3. 3D Array
+4. Go Back
+
+Enter your choice: 2
+
+Enter the number of rows: 2
+Enter the number of columns: 3
+
+Enter 6 elements:
+10 20 30 40 50 60
+
+Array created successfully:
 
 [[10 20 30]
  [40 50 60]]
-
-Choose aggregate/statistical operation:
-
-1. Sum
-2. Mean
-3. Median
-4. Standard Deviation
-5. Variance
-
-Enter your choice: 3
-
-Median of Array: 35.0
 ```
 
 ---
 
-## Tech Stack
+## 🧠 Concepts Practiced
 
-| Technology | Usage |
-|---|---|
-| Python | Application logic |
-| NumPy | Array and numerical operations |
-| VS Code | Development environment |
-| Git | Version control |
-| GitHub | Source code hosting |
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=500&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Functions;Python+Modules+and+Imports;Exception+Handling;Match+%2F+Case;User+Input;NumPy+Arrays;Indexing+and+Slicing;Array+Manipulation;Numerical+Statistics" alt="Concepts animation"/>
+
+</div>
+
+### Python
+
+- Functions
+- Modules
+- Imports
+- Input handling
+- Exception handling
+- `match/case`
+- Loops
+- Conditional logic
+
+### NumPy
+
+- `np.array()`
+- Array dimensions
+- Indexing
+- Slicing
+- Mathematical operations
+- Concatenation
+- Splitting
+- Searching
+- Sorting
+- Filtering
+- Aggregation
+- Statistics
 
 ---
 
-## Installation
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="Technology icons"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 📥 Installation
 
 ### 1. Clone the repository
 
@@ -366,7 +554,7 @@ Median of Array: 35.0
 git clone https://github.com/PalAnghan/NumPy-Analyzer-Pr-8.git
 ```
 
-### 2. Enter the project directory
+### 2. Open the project
 
 ```bash
 cd NumPy-Analyzer-Pr-8
@@ -378,7 +566,7 @@ cd NumPy-Analyzer-Pr-8
 pip install numpy
 ```
 
-### 4. Run the project
+### 4. Run the application
 
 ```bash
 python main.py
@@ -386,14 +574,19 @@ python main.py
 
 ---
 
-## Requirements
+## ✅ Requirements
 
-- Python 3.x
-- NumPy
-- Terminal / Command Prompt
-- Git (optional, for cloning and version control)
+Before running the application, make sure you have:
 
-Check your Python version:
+```text
+Python 3.x
+NumPy
+Git
+VS Code or another Python editor
+Terminal / Command Prompt
+```
+
+Check Python:
 
 ```bash
 python --version
@@ -407,114 +600,191 @@ python -c "import numpy; print(numpy.__version__)"
 
 ---
 
-## Learning Goals
+## 🎯 Learning Journey
 
-This project was built to strengthen practical understanding of:
+<div align="center">
 
 ```text
-Python
-  ↓
-Functions
-  ↓
-Modules & Imports
-  ↓
-NumPy Arrays
-  ↓
-Dimensions
-  ↓
-Indexing & Slicing
-  ↓
-Array Operations
-  ↓
-Statistics
-  ↓
-Interactive CLI
+     LEARN
+       │
+       ▼
+   ┌─────────┐
+   │ Python  │
+   └────┬────┘
+        │
+        ▼
+   ┌─────────┐
+   │  NumPy  │
+   └────┬────┘
+        │
+        ▼
+   ┌──────────────┐
+   │ Small Tasks  │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │ Build CLI    │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │ Test & Debug │
+   └──────┬───────┘
+          │
+          ▼
+   ┌──────────────┐
+   │ Better Code  │
+   └──────────────┘
 ```
 
-It is especially useful for beginners who want to move from **learning NumPy syntax** to actually building something with it.
+</div>
 
 ---
 
-## Project Highlights
+## 💡 Why I Built This
 
-- Modular Python structure
-- Interactive terminal interface
-- Separate utility modules
-- 1D / 2D / 3D array support
-- Dimension-aware indexing
-- Slicing support
-- Statistical operations
-- Input validation
-- Beginner-friendly workflow
-- Easy to extend with new NumPy concepts
+I built NumPy Analyzer to practice NumPy through a real, interactive application rather than isolated examples.
 
----
+The project helped me understand how individual programming concepts can be connected together into a complete CLI application.
 
-## Future Improvements
+It also gave me practical experience with:
 
-Planned or possible improvements:
-
-- Random array generation
-- Matrix multiplication
-- Reshaping tools
-- Transpose operations
-- Broadcasting demonstrations
-- More advanced filtering
-- CSV import/export
-- Data visualization
-- Unit testing
-- Better error messages
-- Operation history
-- GUI version
-- More statistical functions
+```text
+Problem Solving
+      ↓
+Program Structure
+      ↓
+Modules
+      ↓
+Functions
+      ↓
+User Input
+      ↓
+Validation
+      ↓
+NumPy Processing
+      ↓
+Output
+```
 
 ---
 
-## Author
+## 🔮 Future Improvements
 
-<p align="center">
-  <b>Pal Anghan</b><br>
-  BCA Student • Developer • Python & AI/ML Learner
-</p>
-
-<p align="center">
-  <a href="mailto:palanghan750@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/pal-anghan-7733402b4/">LinkedIn</a> •
-  <a href="https://github.com/PalAnghan">GitHub</a>
-</p>
-
-### Connect
-
-I am interested in:
-
-- Python
-- NumPy
-- AI/ML
-- Web Development
-- Software Projects
-- Practical automation
-
-Feel free to explore the repository and connect with me.
+- [ ] Random array generator
+- [ ] Matrix multiplication
+- [ ] Reshape operations
+- [ ] Transpose operations
+- [ ] Broadcasting examples
+- [ ] Advanced filtering
+- [ ] CSV import
+- [ ] CSV export
+- [ ] Data visualization
+- [ ] Operation history
+- [ ] Unit testing
+- [ ] GUI version
+- [ ] More statistical functions
+- [ ] Improved validation
+- [ ] More NumPy examples
 
 ---
 
-## Repository
+## 📈 Project Progress
 
-**GitHub:**  
-https://github.com/PalAnghan/NumPy-Analyzer-Pr-8
+<div align="center">
+
+<img src="https://img.shields.io/badge/Array%20Creation-Complete-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Indexing-Complete-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Slicing-Complete-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Math-Complete-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Search%2FSort-Complete-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-Complete-22C55E?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## License
+# 👨‍💻 Author
 
-This project is created for learning and educational purposes.
+<div align="center">
 
-You are welcome to explore the source code, learn from the implementation, and build your own projects using the concepts demonstrated here.
+<a href="https://github.com/PalAnghan">
+
+<img src="https://avatars.githubusercontent.com/u/your-user-id" width="110" style="border-radius:50%" alt="Pal Anghan"/>
+
+</a>
+
+<br><br>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=750&lines=Pal+Anghan;BCA+Student+%E2%80%A2+Developer;Python+%26+AI%2FML+Learner" alt="Author animation"/>
+</a>
+
+<br><br>
+
+<a href="mailto:palanghan750@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pal-anghan-7733402b4/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PalAnghan">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+<br><br>
+
+### 🚀 Interested In
+
+`Python` · `NumPy` · `AI/ML` · `Web Development` · `Automation` · `Software Projects`
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Built with Python + NumPy</b>
-  <br>
-  <sub>Learning by building.</sub>
-</p>
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/PalAnghan">
+<img src="https://img.shields.io/badge/GitHub-PalAnghan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pal-anghan-7733402b4/">
+<img src="https://img.shields.io/badge/LinkedIn-Pal%20Anghan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:palanghan750@gmail.com">
+<img src="https://img.shields.io/badge/Email-palangan750%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⭐ Repository
+
+<div align="center">
+
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8/issues">
+<img src="https://img.shields.io/badge/Issues-GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
