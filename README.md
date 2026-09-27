@@ -1,65 +1,82 @@
 <div align="center">
 
 <a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=230&section=header&text=NumPy%20Analyzer&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20NumPy%20Learning%20and%20Analysis%20CLI&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=230&section=header&text=NumPy%20Analyzer&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20NumPy%20Learning%20and%20Analysis%20CLI&descAlignY=62&descSize=18" width="100%" alt="NumPy Analyzer"/>
 </a>
 
 <br>
 
-<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Create+%7C+Manipulate+%7C+Analyze+NumPy+Arrays;Learn+Python+and+NumPy+by+Building;Interactive+CLI+Project+for+Practical+Learning" alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Create+%7C+Manipulate+%7C+Analyze+NumPy+Arrays;Learn+Python+and+NumPy+by+Building;Interactive+CLI+Project+for+Practical+Learning" alt="Typing animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLI-Interactive-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Project-Learning-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/PalAnghan/NumPy-Analyzer-Pr-8?style=for-the-badge&logo=github&label=Stars"/>
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/CLI-Interactive-111827?style=for-the-badge" alt="CLI"/>
+<img src="https://img.shields.io/badge/Project-Learning-22C55E?style=for-the-badge" alt="Learning project"/>
+<img src="https://img.shields.io/github/stars/PalAnghan/NumPy-Analyzer-Pr-8?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/hero.gif" width="900" alt="NumPy Analyzer animated demonstration"/>
+<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/hero.gif" width="900" alt="NumPy Analyzer animated demo"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
-  <img src="https://img.shields.io/badge/Explore%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repository"/>
 </a>
+
 <a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8/issues">
-  <img src="https://img.shields.io/badge/Report%20Issue-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Report%20Issue-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Report issue"/>
 </a>
 
 </div>
 
 ---
 
-## ⚡ What is NumPy Analyzer?
+## ⚡ About The Project
 
-**NumPy Analyzer** is an interactive Python CLI project designed to make NumPy practice more practical.
+**NumPy Analyzer** is an interactive Python CLI application created to practice and demonstrate important NumPy concepts through one menu-driven project.
 
-Instead of writing a separate program for every NumPy concept, this project brings important operations together inside one menu-driven application.
+The goal is simple:
 
 ```text
-                         ┌──────────────────────────┐
-                         │      NUMPY ANALYZER      │
-                         └────────────┬─────────────┘
-                                      │
-             ┌────────────────────────┼────────────────────────┐
-             │                        │                        │
-             ▼                        ▼                        ▼
-       ARRAY CREATION           ARRAY OPERATIONS         DATA ANALYSIS
-             │                        │                        │
-       ┌─────┼─────┐          ┌───────┼────────┐        ┌──────┼──────┐
-       ▼     ▼     ▼          ▼       ▼        ▼        ▼      ▼      ▼
-      1D    2D    3D       Indexing  Slicing  Math      Sum    Mean  Stats
-       │     │     │          │       │        │         │      │      │
-       └─────┴─────┴──────────┴───────┴────────┴─────────┴──────┴──────┘
-                                      │
-                                      ▼
-                            PRACTICAL NUMPY LEARNING
+Learn NumPy
+     ↓
+Practice Concepts
+     ↓
+Build Small Features
+     ↓
+Connect Everything
+     ↓
+Create One Complete CLI Application
 ```
+
+Instead of keeping every NumPy concept as a separate program, this project brings array creation, indexing, slicing, mathematical operations, searching, sorting, filtering, combining, splitting and statistics together.
+
+---
+
+## 🎥 Video Demo
+
+<div align="center">
+
+### ▶️ Full Project Demonstration
+
+<a href="PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE">
+<img src="https://img.shields.io/badge/▶%20Watch%20Full%20Video%20Demo-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch video demo"/>
+</a>
+
+<br><br>
+
+<a href="PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE">
+<img src="https://img.shields.io/badge/Google%20Drive-Video%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive video"/>
+</a>
+
+<br><br>
+
+<b>Replace the Google Drive link above after uploading your project demonstration.</b>
+
+</div>
 
 ---
 
@@ -67,15 +84,11 @@ Instead of writing a separate program for every NumPy concept, this project brin
 
 <div align="center">
 
-<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
-<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/workflow.gif" width="900" alt="Animated project workflow"/>
-</a>
+<img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/workflow.gif" width="900" alt="Animated NumPy Analyzer workflow"/>
 
 <br><br>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=800&lines=Input+%E2%86%92+Create+Array+%E2%86%92+Process+Data+%E2%86%92+Analyze+Results;One+CLI+%E2%86%92+Multiple+NumPy+Concepts;Practice+%E2%86%92+Build+%E2%86%92+Understand" alt="Workflow typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=850&lines=Input+%E2%86%92+Create+Array+%E2%86%92+Process+Data+%E2%86%92+Analyze+Results;One+CLI+%E2%86%92+Multiple+NumPy+Concepts;Practice+%E2%86%92+Build+%E2%86%92+Understand" alt="Workflow animation"/>
 
 </div>
 
@@ -92,7 +105,7 @@ Instead of writing a separate program for every NumPy concept, this project brin
 - 1D arrays
 - 2D arrays
 - 3D arrays
-- Custom input
+- Custom values
 - Custom dimensions
 - Interactive validation
 
@@ -104,7 +117,8 @@ Instead of writing a separate program for every NumPy concept, this project brin
 - 1D indexing
 - 2D indexing
 - 3D indexing
-- Row and column selection
+- Row selection
+- Column selection
 - Index validation
 
 </td>
@@ -118,7 +132,7 @@ Instead of writing a separate program for every NumPy concept, this project brin
 - 2D slicing
 - Row ranges
 - Column ranges
-- Interactive range input
+- Interactive ranges
 - Extract array sections
 
 </td>
@@ -141,7 +155,7 @@ Instead of writing a separate program for every NumPy concept, this project brin
 
 - Combine arrays
 - Split arrays
-- NumPy array manipulation
+- Array manipulation
 - Interactive input
 
 </td>
@@ -160,7 +174,7 @@ Instead of writing a separate program for every NumPy concept, this project brin
 <tr>
 <td>
 
-### 📊 Aggregates
+### 📊 Aggregates & Statistics
 
 - Sum
 - Mean
@@ -174,8 +188,8 @@ Instead of writing a separate program for every NumPy concept, this project brin
 ### 🛡️ Error Handling
 
 - Invalid input handling
-- Index validation
 - Numeric validation
+- Index validation
 - User-friendly messages
 
 </td>
@@ -206,7 +220,7 @@ Enter your choice:
 
 ## 🧩 Array Creation
 
-The application lets the user choose the array dimension interactively.
+The application lets the user select the required array dimension interactively.
 
 ```text
 Select the type of array to create:
@@ -247,15 +261,15 @@ Array created successfully:
 
 ### 3D Array
 
-The same interactive approach is used for layers, rows, columns and values.
+The application also supports creating 3D arrays by entering layers, rows, columns and values.
 
 ---
 
 ## 🎯 Indexing
 
-Indexing lets you access individual elements.
+Indexing allows individual elements to be accessed from arrays.
 
-### 1D
+### 1D Indexing
 
 ```python
 array = np.array([10, 20, 30, 40, 50])
@@ -273,7 +287,7 @@ Output:
 50
 ```
 
-### 2D
+### 2D Indexing
 
 ```python
 array[row, column]
@@ -294,7 +308,7 @@ Selected element:
 60
 ```
 
-### 3D
+### 3D Indexing
 
 ```python
 array[layer, row, column]
@@ -331,17 +345,7 @@ Sliced Array:
 
 ## 🧮 Mathematical Operations
 
-The project provides a separate mathematical operations module for working with NumPy arrays.
-
-Typical operations include:
-
-```text
-Addition
-Subtraction
-Multiplication
-Division
-Power
-```
+The mathematical operations module provides numerical processing using NumPy.
 
 Example:
 
@@ -355,6 +359,16 @@ a + b
 a - b
 a * b
 a / b
+```
+
+Typical operations include:
+
+```text
+Addition
+Subtraction
+Multiplication
+Division
+Power
 ```
 
 ---
@@ -430,15 +444,13 @@ Result:
 
 ## 📊 Aggregates & Statistics
 
-NumPy provides powerful functions for numerical analysis.
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PalAnghan/NumPy-Analyzer-Pr-8/main/assets/stats.gif" width="850" alt="Animated NumPy statistics"/>
 
 </div>
 
-### Example
+NumPy provides useful functions for numerical analysis.
 
 ```python
 array = np.array([10, 20, 30, 40, 50])
@@ -496,7 +508,7 @@ Array created successfully:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=500&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Functions;Python+Modules+and+Imports;Exception+Handling;Match+%2F+Case;User+Input;NumPy+Arrays;Indexing+and+Slicing;Array+Manipulation;Numerical+Statistics" alt="Concepts animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1500&pause=450&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Functions;Python+Modules+and+Imports;Exception+Handling;Match+%2F+Case;User+Input;NumPy+Arrays;Indexing+and+Slicing;Array+Manipulation;Numerical+Statistics" alt="Concept animation"/>
 
 </div>
 
@@ -505,7 +517,7 @@ Array created successfully:
 - Functions
 - Modules
 - Imports
-- Input handling
+- User input
 - Exception handling
 - `match/case`
 - Loops
@@ -536,11 +548,11 @@ Array created successfully:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
@@ -576,8 +588,6 @@ python main.py
 
 ## ✅ Requirements
 
-Before running the application, make sure you have:
-
 ```text
 Python 3.x
 NumPy
@@ -605,37 +615,37 @@ python -c "import numpy; print(numpy.__version__)"
 <div align="center">
 
 ```text
-     LEARN
-       │
-       ▼
-   ┌─────────┐
-   │ Python  │
-   └────┬────┘
-        │
-        ▼
-   ┌─────────┐
-   │  NumPy  │
-   └────┬────┘
-        │
-        ▼
-   ┌──────────────┐
-   │ Small Tasks  │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ Build CLI    │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ Test & Debug │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ Better Code  │
-   └──────────────┘
+       LEARN
+         │
+         ▼
+    ┌─────────┐
+    │ Python  │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │  NumPy  │
+    └────┬────┘
+         │
+         ▼
+    ┌──────────────┐
+    │ Small Tasks  │
+    └──────┬───────┘
+           │
+           ▼
+    ┌──────────────┐
+    │ Build CLI    │
+    └──────┬───────┘
+           │
+           ▼
+    ┌──────────────┐
+    │ Test & Debug │
+    └──────┬───────┘
+           │
+           ▼
+    ┌──────────────┐
+    │ Better Code  │
+    └──────────────┘
 ```
 
 </div>
@@ -644,11 +654,9 @@ python -c "import numpy; print(numpy.__version__)"
 
 ## 💡 Why I Built This
 
-I built NumPy Analyzer to practice NumPy through a real, interactive application rather than isolated examples.
+I built NumPy Analyzer to practice NumPy through a complete interactive application instead of only writing isolated examples.
 
-The project helped me understand how individual programming concepts can be connected together into a complete CLI application.
-
-It also gave me practical experience with:
+The project helped me understand how individual programming concepts can be connected together into a usable CLI application.
 
 ```text
 Problem Solving
@@ -694,12 +702,12 @@ Output
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Array%20Creation-Complete-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Indexing-Complete-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Slicing-Complete-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Math-Complete-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Search%2FSort-Complete-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-Complete-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Array%20Creation-Complete-22C55E?style=for-the-badge" alt="Array creation complete"/>
+<img src="https://img.shields.io/badge/Indexing-Complete-22C55E?style=for-the-badge" alt="Indexing complete"/>
+<img src="https://img.shields.io/badge/Slicing-Complete-22C55E?style=for-the-badge" alt="Slicing complete"/>
+<img src="https://img.shields.io/badge/Math-Complete-22C55E?style=for-the-badge" alt="Math complete"/>
+<img src="https://img.shields.io/badge/Search%2FSort-Complete-22C55E?style=for-the-badge" alt="Search and sort complete"/>
+<img src="https://img.shields.io/badge/Statistics-Complete-22C55E?style=for-the-badge" alt="Statistics complete"/>
 
 </div>
 
@@ -710,34 +718,30 @@ Output
 <div align="center">
 
 <a href="https://github.com/PalAnghan">
-
-<img src="https://avatars.githubusercontent.com/u/your-user-id" width="110" style="border-radius:50%" alt="Pal Anghan"/>
-
+<img src="https://github.com/PalAnghan.png" width="120" alt="Pal Anghan GitHub profile picture"/>
 </a>
 
 <br><br>
 
-<a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=750&lines=Pal+Anghan;BCA+Student+%E2%80%A2+Developer;Python+%26+AI%2FML+Learner" alt="Author animation"/>
-</a>
 
 <br><br>
 
 <a href="mailto:palanghan750@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pal-anghan-7733402b4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/PalAnghan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PalAnghan&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
 
 <br><br>
 
@@ -749,20 +753,20 @@ Output
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/PalAnghan">
-<img src="https://img.shields.io/badge/GitHub-PalAnghan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-PalAnghan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pal-anghan-7733402b4/">
-<img src="https://img.shields.io/badge/LinkedIn-Pal%20Anghan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pal%20Anghan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:palanghan750@gmail.com">
-<img src="https://img.shields.io/badge/Email-palangan750%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-palangan750%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -774,17 +778,27 @@ Output
 <div align="center">
 
 <a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
-<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8/issues">
-<img src="https://img.shields.io/badge/Issues-GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Issues-GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
 </a>
 
-<br><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=150&section=footer&animation=fadeIn" width="100%"/>
+---
+
+<div align="center">
+
+<a href="https://github.com/PalAnghan/NumPy-Analyzer-Pr-8">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=150&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+</a>
+
+### ⚡ Built with Python + NumPy
+
+**Learn by building. Build by practicing.**
 
 </div>
