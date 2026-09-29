@@ -62,13 +62,13 @@ Instead of keeping every NumPy concept as a separate program, this project bring
 
 ### ▶️ Full Project Demonstration
 
-<a href="PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE">
+<a href="https://drive.google.com/file/d/13lyx-1dHowHGbGtJdsVxlx13Uc9W2v1r/view?usp=sharing">
 <img src="https://img.shields.io/badge/▶%20Watch%20Full%20Video%20Demo-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch video demo"/>
 </a>
 
 <br><br>
 
-<a href="PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE">
+<a href="https://drive.google.com/file/d/13lyx-1dHowHGbGtJdsVxlx13Uc9W2v1r/view?usp=sharing">
 <img src="https://img.shields.io/badge/Google%20Drive-Video%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive video"/>
 </a>
 
